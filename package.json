@@ -1,0 +1,28 @@
+{
+  "name": "@ocean28799/react-native-scrollable-tabview",
+  "version": "1.0.1",
+  "description": "A custom scrollable tabview for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ocean28799/scrollable-tabview-react-native.git"
+  },
+  "keywords": [
+    "scrollable-tabview",
+    "react-native-component",
+    "react-component",
+    "react-native",
+    "ios",
+    "tab",
+    "scrollable"
+  ],
+  "author": "Tran Anh Duc <ocean28799>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ocean28799/scrollable-tabview-react-native/issues"
+  },
+  "homepage": "https://github.com/ocean28799/scrollable-tabview-react-native#readme"
+}
